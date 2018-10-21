@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyPracticeAsyncTask</string>
+    <string name="main_title">このアプリケーションの説明</string>
+    <string name="main_description">このアプリケーションはAsyncTaskを使う練習のために作られた実験的なものです。お試しでやってみているためコードに突っ込みどころがたくさんあるのは許してください。</string>
+    <string name="main_title2">プログレスバー</string>
+    <string name="main_button">Try!</string>
+    <string name="main_status">Status: ...</string>
+    <string name="main_count">実行回数: 0</string>
+</resources>
